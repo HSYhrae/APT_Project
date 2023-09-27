@@ -93,6 +93,7 @@ for i in range(len(unique_rows)):
 - LGBM Regressor 성능 평가
 ![image](https://github.com/HSYhrae/APT_Project/assets/139428828/8afca21a-d541-4278-9a33-2575be21ddbf)
 
+- 추가로 미래 예측값을 도출하기 위해 Prophet 사
 
 ### Streamlit
 - 현재 대시보드를 실행시키기 위해서 구글 지오코딩의 API키를 발급해서 실행해야함
